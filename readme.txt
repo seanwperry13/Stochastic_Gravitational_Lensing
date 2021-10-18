@@ -1,8 +1,7 @@
 ****************************************************************************************
 Sean Perry
-sperry9@fau.edu
-2020
+SeanWPerry@gmail.com
 
-This repository is intended to host some of the numerical expirements pertaining to gravitational lensing. 
+This repository is intended to host numerical expirements pertaining to gravitational lensing. 
 
 ****************************************************************************************
